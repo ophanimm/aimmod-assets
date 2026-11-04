@@ -255,6 +255,1608 @@
    "label": "Overcast (SBS 24)",
    "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sources/sbs_24_overcast.png",
    "optional": true
+  },
+  {
+   "path": "sounds/cod_hitmarker.wav",
+   "sha256": "b4541603ddb9d475071ce6272af81006a16a99b97b45347553aabdca59dcfda9",
+   "bytes": 9168,
+   "kind": "sound",
+   "label": "cod_hitmarker",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/cod_hitmarker.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/csgo_headshot.wav",
+   "sha256": "98ddb3a5b890d505a67b35872e5739c63a99f09fdce4833c1e4b7bad7d23a0ca",
+   "bytes": 176448,
+   "kind": "sound",
+   "label": "csgo_headshot",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/csgo_headshot.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/fortnite_headshot.wav",
+   "sha256": "e6012d94babba22c67160b877a87fc5b1b79ed63b533d4e5acd27dbe33ee956f",
+   "bytes": 176448,
+   "kind": "sound",
+   "label": "fortnite_headshot",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/fortnite_headshot.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_aimbooster_hit.wav",
+   "sha256": "9413c30195c99184ed74f8850daf68bb7d0e0cd86a83e97205ef5e798a5c3735",
+   "bytes": 13000,
+   "kind": "sound",
+   "label": "kv_aimbooster_hit",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_aimbooster_hit.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_aimgod_hitsound.wav",
+   "sha256": "0235238e01f4c7056f099909b71f13f6237518c9af6e2f0d5cdf41ca2030f049",
+   "bytes": 3928,
+   "kind": "sound",
+   "label": "kv_aimgod_hitsound",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_aimgod_hitsound.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_apa_hit_1.wav",
+   "sha256": "4fbb174b0f057706c1ac63083d1a62e62966e4402feac52e9011bc5f6cb32662",
+   "bytes": 4940,
+   "kind": "sound",
+   "label": "kv_apa_hit_1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_apa_hit_1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_apa_hit_2.wav",
+   "sha256": "edd34d46e345527cf8764edb18a91c16e8d89b80191a85226b0375533425ff2e",
+   "bytes": 5356,
+   "kind": "sound",
+   "label": "kv_apa_hit_2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_apa_hit_2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_apa_hit_3.wav",
+   "sha256": "0b1e883e28dccc39dc8b5b5e6ec56f3abf308a4c91521ade921520f73f30255f",
+   "bytes": 4592,
+   "kind": "sound",
+   "label": "kv_apa_hit_3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_apa_hit_3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_apa_hit_4.wav",
+   "sha256": "63af4fcef697023b7d3e49a5a2c644363294c32cb55b39f9fbefc9a0713ee6bd",
+   "bytes": 5172,
+   "kind": "sound",
+   "label": "kv_apa_hit_4",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_apa_hit_4.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_apa_hit_5.wav",
+   "sha256": "7de9feb1f70951e60a2080c170d632a386dda51adcaffc62f31767f0d162a969",
+   "bytes": 4584,
+   "kind": "sound",
+   "label": "kv_apa_hit_5",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_apa_hit_5.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_apa_hit_6.wav",
+   "sha256": "4b9e5414d9f0cbe27505a026bd5a6c5ee31df555f025dc5626a2b6373a4fcdb3",
+   "bytes": 5516,
+   "kind": "sound",
+   "label": "kv_apa_hit_6",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_apa_hit_6.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_apa_hit_7.wav",
+   "sha256": "4fbb174b0f057706c1ac63083d1a62e62966e4402feac52e9011bc5f6cb32662",
+   "bytes": 4940,
+   "kind": "sound",
+   "label": "kv_apa_hit_7",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_apa_hit_7.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_apa_kill.wav",
+   "sha256": "726db07ce0f67713aa6ee051e670173b8bcf88921a58bfbec7842d5bb48921be",
+   "bytes": 59788,
+   "kind": "sound",
+   "label": "kv_apa_kill",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_apa_kill.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bell1.wav",
+   "sha256": "7eb2696a05d64b3c652808f4df251003c2fc2edffaed58c025b2e2aee8ead4d3",
+   "bytes": 10796,
+   "kind": "sound",
+   "label": "kv_bell1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bell1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bell2.wav",
+   "sha256": "6398d7be9cc305bf87560632909293ed373f0b23002dfd8ff061eda88c8c46b3",
+   "bytes": 13836,
+   "kind": "sound",
+   "label": "kv_bell2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bell2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bell3.wav",
+   "sha256": "c14701594a4c3fb059e454e864054e9d37fa7a3bf22986e9b433eab087ac58d6",
+   "bytes": 30332,
+   "kind": "sound",
+   "label": "kv_bell3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bell3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bell4.wav",
+   "sha256": "6f9812ac1fee4865d71aada6790e7b14386b052feccda533679c6452539f8694",
+   "bytes": 31984,
+   "kind": "sound",
+   "label": "kv_bell4",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bell4.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bell5.wav",
+   "sha256": "374f581db38393abd38a015dd13f770b6b63435c9d7981ae2c90950a64bec9d5",
+   "bytes": 36372,
+   "kind": "sound",
+   "label": "kv_bell5",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bell5.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_blip_1.wav",
+   "sha256": "30367060bf83900e14592db4406d8f7377b7e810646ad8306a1866b2c867852e",
+   "bytes": 9580,
+   "kind": "sound",
+   "label": "kv_blip_1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_blip_1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_blip_2.wav",
+   "sha256": "ef98611eb50241e6ba39c612a39a511b4e5bcd0506a6d865b8df3f922e74de19",
+   "bytes": 8500,
+   "kind": "sound",
+   "label": "kv_blip_2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_blip_2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_blip_3.wav",
+   "sha256": "7a8fb458e32d04e57eace89dc1432bb156db88aad0788167f510aea5a533024a",
+   "bytes": 5524,
+   "kind": "sound",
+   "label": "kv_blip_3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_blip_3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_blip_4.wav",
+   "sha256": "9dd2278fd4cdfe6bb83d9c7c4ce1cf22b1e2633ec188fcf8cf0ae1f0ee7f2b12",
+   "bytes": 9204,
+   "kind": "sound",
+   "label": "kv_blip_4",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_blip_4.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bubble_pop_1.wav",
+   "sha256": "e2e9478208d70a489e78e56cb6422595edefcf3d1e1f4eaeff4e55537f82efee",
+   "bytes": 32796,
+   "kind": "sound",
+   "label": "kv_bubble_pop_1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bubble_pop_1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bubble_pop_2.wav",
+   "sha256": "d9b3222c7e73f44b22cba31febb37a239482a453a7d6b59a53f6f44b85bc3c1b",
+   "bytes": 10272,
+   "kind": "sound",
+   "label": "kv_bubble_pop_2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bubble_pop_2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bubble_pop_3.wav",
+   "sha256": "ec61b21ab011e9774ff33f23b0633107e734eaa4863ab3b9407024090b89b027",
+   "bytes": 36184,
+   "kind": "sound",
+   "label": "kv_bubble_pop_3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bubble_pop_3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bubble_pop_4.wav",
+   "sha256": "ab021584e6d23beeb8a9ea0e987aae07e4e47d460cdd66b8d47318eda73dcfb8",
+   "bytes": 4872,
+   "kind": "sound",
+   "label": "kv_bubble_pop_4",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bubble_pop_4.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bubble_pop_5.wav",
+   "sha256": "575817a8ca100e390a9138fa7b978712f482562f55c5282acd0aa767f3a0c7c3",
+   "bytes": 9724,
+   "kind": "sound",
+   "label": "kv_bubble_pop_5",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bubble_pop_5.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_bubble_pop_6.wav",
+   "sha256": "ae5faca60f2d7d7cf838e449329ebd327e85ae629f575a6f097db46a48e0efda",
+   "bytes": 4012,
+   "kind": "sound",
+   "label": "kv_bubble_pop_6",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_bubble_pop_6.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_clippy_headshot.wav",
+   "sha256": "8dd26ea13c85c0b928b523b76d3d51af4b75e9e9954f36ed35d501473d9fe4dc",
+   "bytes": 107096,
+   "kind": "sound",
+   "label": "kv_clippy_headshot",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_clippy_headshot.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_cowbell_808.wav",
+   "sha256": "e7901c7c96818fe38d0a4e7b598ce999592817e1685f9f73fe1e99ec97627638",
+   "bytes": 70492,
+   "kind": "sound",
+   "label": "kv_cowbell_808",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_cowbell_808.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_deeppop.wav",
+   "sha256": "2e5aa98b063791d36712a76f719527f7dd1102484290ef78375a0275067491e9",
+   "bytes": 34000,
+   "kind": "sound",
+   "label": "kv_deeppop",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_deeppop.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_drum_hitclap.wav",
+   "sha256": "ffee00006cd112ed9d90f97dbd84358b6ad74cae77fa4353cdb1405e0e96554d",
+   "bytes": 114492,
+   "kind": "sound",
+   "label": "kv_drum_hitclap",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_drum_hitclap.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_drum_hitfinish.wav",
+   "sha256": "934c1a25614de266e65bf6dca14f140eda75df94ae957901fcae3168e366e57e",
+   "bytes": 113872,
+   "kind": "sound",
+   "label": "kv_drum_hitfinish",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_drum_hitfinish.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_drum_hitnormal.wav",
+   "sha256": "9fa76a90f6618dd60188a08d87eaedad2c3dc059e9136eaefcf387c562f75b0c",
+   "bytes": 138284,
+   "kind": "sound",
+   "label": "kv_drum_hitnormal",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_drum_hitnormal.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_drum_hitwhistle.wav",
+   "sha256": "99d5d8dc0c97943a27be13a02d09f08a1d2a6f56bc378daed6141648a0e97e8e",
+   "bytes": 70136,
+   "kind": "sound",
+   "label": "kv_drum_hitwhistle",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_drum_hitwhistle.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_drum_slidertick.wav",
+   "sha256": "5723c8048f3556baf22f77d556cf88863fd201c63f74812912d1be06756101fa",
+   "bytes": 36560,
+   "kind": "sound",
+   "label": "kv_drum_slidertick",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_drum_slidertick.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_final_fight_big_pop.wav",
+   "sha256": "0e090275aa7a41ec08cdd2bde62a5b6018e72ad7500545c1e3b9d466fbee1688",
+   "bytes": 176760,
+   "kind": "sound",
+   "label": "kv_final_fight_big_pop",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_final_fight_big_pop.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_headshot01.wav",
+   "sha256": "c33b8e981170330b25914f8c5a6a8d332dd85afad870b4449c8e7d88a99a21c9",
+   "bytes": 23448,
+   "kind": "sound",
+   "label": "kv_headshot01",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_headshot01.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_headshot02.wav",
+   "sha256": "e5dab7a62438942910a138b858e6e39179231624f195ab1d290b0a1146ae2bc2",
+   "bytes": 27132,
+   "kind": "sound",
+   "label": "kv_headshot02",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_headshot02.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_headshot03.wav",
+   "sha256": "3605b02b95638e2ca8cbd83f320f243a6503072ba39d6770f5356973e74d08b8",
+   "bytes": 8296,
+   "kind": "sound",
+   "label": "kv_headshot03",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_headshot03.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_headshot04.wav",
+   "sha256": "f36bdd0e1ee3caaca4e1bee90ac6f2c3328ada805fbbe42f1ef38f35fbcbe504",
+   "bytes": 23872,
+   "kind": "sound",
+   "label": "kv_headshot04",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_headshot04.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_headshot05.wav",
+   "sha256": "764364c4f70e8cea0daffbc2a246e3c1fb6a49da05c226ca77fb3e57706e55a9",
+   "bytes": 23700,
+   "kind": "sound",
+   "label": "kv_headshot05",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_headshot05.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_headshot06.wav",
+   "sha256": "1797e533b11d3fb349e111a9d417fcbdb1fe80979b84b8553a4f22d26b54de2a",
+   "bytes": 30284,
+   "kind": "sound",
+   "label": "kv_headshot06",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_headshot06.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_health_hit_3.wav",
+   "sha256": "c14cfabae59c4c00403c9dac222ffe4db8c141c4948613eb5283e89f92b6ab71",
+   "bytes": 76700,
+   "kind": "sound",
+   "label": "kv_health_hit_3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_health_hit_3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit1.wav",
+   "sha256": "864faaa1fe4c1287ac3a92a40f5793f465e2b924fc33622289bea53d8d2383a4",
+   "bytes": 25920,
+   "kind": "sound",
+   "label": "kv_hit1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit10.wav",
+   "sha256": "df9efe16bf7dac838d2a1c44bc318c1f43a07aec2ad80d22e89c31bcf9dd8c4b",
+   "bytes": 11060,
+   "kind": "sound",
+   "label": "kv_hit10",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit10.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit2.wav",
+   "sha256": "0736f0dd7118b01d80eda22c00875879bca4294c5ca5a4d19f81bb58c8b8797d",
+   "bytes": 13320,
+   "kind": "sound",
+   "label": "kv_hit2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit3.wav",
+   "sha256": "a9c4f9cd0f4aab2ded17c9a606659d69be0495acdb93668ee21fcb40ddae0b5f",
+   "bytes": 3376,
+   "kind": "sound",
+   "label": "kv_hit3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit4.wav",
+   "sha256": "b8bbd34ab6909b5ed7be6c080a2e79b78b31c5359c37c2c1a3d992ebb97fb850",
+   "bytes": 3372,
+   "kind": "sound",
+   "label": "kv_hit4",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit4.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit5.wav",
+   "sha256": "52742b9400f88a0a5fd296f0becaca6e2946b9f69fe23c3a09aaff1bb9ffef00",
+   "bytes": 9540,
+   "kind": "sound",
+   "label": "kv_hit5",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit5.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit6.wav",
+   "sha256": "daa4c2c3dc1dd1a581f08bb45d2ae09024656520ec5090536a9c63e761b1403c",
+   "bytes": 15344,
+   "kind": "sound",
+   "label": "kv_hit6",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit6.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit7.wav",
+   "sha256": "ca31a53060f985070a9de044d938c0d0aaf9d3f65617ed2692a2eb293a11f27f",
+   "bytes": 20680,
+   "kind": "sound",
+   "label": "kv_hit7",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit7.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit8.wav",
+   "sha256": "1686dd868f6ec83cc8a3aa610698909e6a260970747d64c616f4c1468f22b38c",
+   "bytes": 13576,
+   "kind": "sound",
+   "label": "kv_hit8",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit8.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hit9.wav",
+   "sha256": "8f5dd4716eed229cc5a4f9a70e1d41b8e2b38c233b6ec4ca2a6981ef1cb68a1a",
+   "bytes": 53972,
+   "kind": "sound",
+   "label": "kv_hit9",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hit9.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitbody.wav",
+   "sha256": "30085c6c805417a40ff31c52f7a013f97ecaf20514e6475b5dd9e18241d38888",
+   "bytes": 62536,
+   "kind": "sound",
+   "label": "kv_hitbody",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitbody.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hithead.wav",
+   "sha256": "333fde1a761af1aaf1963b799935bec097bd454fea3c71692307b01a82423a02",
+   "bytes": 30296,
+   "kind": "sound",
+   "label": "kv_hithead",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hithead.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitow.wav",
+   "sha256": "5338cffc9894959b1a7ad7b76ade48b21e07d8d9c1e7cc2890c943c48c43091b",
+   "bytes": 22880,
+   "kind": "sound",
+   "label": "kv_hitow",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitow.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_1.wav",
+   "sha256": "b14492ba379d9042b4ba97fed8dedf72a1205932cc26f50c684b74b12af0a103",
+   "bytes": 46900,
+   "kind": "sound",
+   "label": "kv_hitsound_1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_adysky.wav",
+   "sha256": "43af1d1c6b38a076fe40888082cc7622d03d3a90773649293cf4f1a0fe3d336a",
+   "bytes": 13804,
+   "kind": "sound",
+   "label": "kv_hitsound_adysky",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_adysky.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_alt.wav",
+   "sha256": "242eed0bf6631a72595c5edbac9066f36889831918f8b680029b65ca33c0ed70",
+   "bytes": 141340,
+   "kind": "sound",
+   "label": "kv_hitsound_alt",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_alt.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_bdonski.wav",
+   "sha256": "5863da5aaf8d9d2ddd18dfa7cb322662d723101cfb38e53f475aa4117a62038b",
+   "bytes": 17684,
+   "kind": "sound",
+   "label": "kv_hitsound_bdonski",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_bdonski.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_beep.wav",
+   "sha256": "2d89a5cc7bdf26d47b6035673d1ac95ea0ab61d989e16d204870d3faed2f0919",
+   "bytes": 16068,
+   "kind": "sound",
+   "label": "kv_hitsound_beep",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_beep.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_bunt.wav",
+   "sha256": "608e8d81c22475cc2ec16aac14ac39db850d71159e5872aa38d0538d938bb1d9",
+   "bytes": 68092,
+   "kind": "sound",
+   "label": "kv_hitsound_bunt",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_bunt.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_def.wav",
+   "sha256": "dcb56f11edf59848a8bcdbf7ebee7bac702031b930f76c258d659822f9e851ed",
+   "bytes": 264488,
+   "kind": "sound",
+   "label": "kv_hitsound_def",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_def.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_gear.wav",
+   "sha256": "e923443db7bdb54e0487c8f8a882ffffca1c061ff004d5a7949806556f73392e",
+   "bytes": 38360,
+   "kind": "sound",
+   "label": "kv_hitsound_gear",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_gear.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_idk.wav",
+   "sha256": "6a4b24a0b048e31600dc0ae88771cc4d9cc17b954c78e0fc84b9c9df73cd3fbb",
+   "bytes": 40036,
+   "kind": "sound",
+   "label": "kv_hitsound_idk",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_idk.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_neotokyo.wav",
+   "sha256": "1b3f045dacf90f66cd73dcef35b56ca196dad8e1f0ab16ec47fc2ec2c495d7db",
+   "bytes": 11288,
+   "kind": "sound",
+   "label": "kv_hitsound_neotokyo",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_neotokyo.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_osu.wav",
+   "sha256": "cb2d72862fdebc0efcdbb831c228e900b54c15b2140bee45771f623453ee91b8",
+   "bytes": 70228,
+   "kind": "sound",
+   "label": "kv_hitsound_osu",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_osu.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_painkiller.wav",
+   "sha256": "5022a68961b6c339796a7fd52b0e3bc5d4cf84175a52573ec6affd4d8f86f99d",
+   "bytes": 12036,
+   "kind": "sound",
+   "label": "kv_hitsound_painkiller",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_painkiller.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_reflex.wav",
+   "sha256": "4605e95bbfb41f106ce16a632f9085de2bee380fdc9c78f6788a491e862369bd",
+   "bytes": 76812,
+   "kind": "sound",
+   "label": "kv_hitsound_reflex",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_reflex.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_soft.wav",
+   "sha256": "4c9148073e1c670b3439ed9af2fc1b3052ab7f5ad744789395b3d896160538a5",
+   "bytes": 53248,
+   "kind": "sound",
+   "label": "kv_hitsound_soft",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_soft.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_thalash.wav",
+   "sha256": "b09d7ef2b4294a80e8e48ae4cdfaa1b5dbc685abaf5dde53be25ed93e4744965",
+   "bytes": 62252,
+   "kind": "sound",
+   "label": "kv_hitsound_thalash",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_thalash.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_ut.wav",
+   "sha256": "2e215bef4f80ec5aca33113434a66fb0d95558baec90550805ba9d8a428b35ac",
+   "bytes": 24448,
+   "kind": "sound",
+   "label": "kv_hitsound_ut",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_ut.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_hitsound_warsow.wav",
+   "sha256": "b0ea86195bd2b02141dad53748662b3bf2a950a229bfc0a0be5e32eea589692b",
+   "bytes": 31340,
+   "kind": "sound",
+   "label": "kv_hitsound_warsow",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_hitsound_warsow.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killconfirmed.wav",
+   "sha256": "a34cf7a327fe77e78f775f93c7059d7935b257215a40b32a9e7529b299183f15",
+   "bytes": 69696,
+   "kind": "sound",
+   "label": "kv_killconfirmed",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killconfirmed.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killconfirmed01.wav",
+   "sha256": "a0ea0df484fa6326a74d26fe2fe7c913927b2598af4fd8a2c3295a38d030fd1e",
+   "bytes": 55248,
+   "kind": "sound",
+   "label": "kv_killconfirmed01",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killconfirmed01.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killconfirmed02.wav",
+   "sha256": "6e66ef0d2d28cb7cf31ca3f3e403d9e0f26c81f6bec35e967459ee48d4a03583",
+   "bytes": 59312,
+   "kind": "sound",
+   "label": "kv_killconfirmed02",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killconfirmed02.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killconfirmed03.wav",
+   "sha256": "fec733869c575c8d980fc439c4ed01f69de7cb9603d58f0487e2b1b2258ef5cf",
+   "bytes": 21364,
+   "kind": "sound",
+   "label": "kv_killconfirmed03",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killconfirmed03.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killconfirmed04.wav",
+   "sha256": "f91e37a1cc800f3ebb2c3ad8619c01fdb120f897448235a187c5ed798de4e717",
+   "bytes": 40512,
+   "kind": "sound",
+   "label": "kv_killconfirmed04",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killconfirmed04.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killconfirmed05.wav",
+   "sha256": "17de398584ebb9ec27374d622432fd6ae32eb6976a526bbe50e89fad94417c6a",
+   "bytes": 65208,
+   "kind": "sound",
+   "label": "kv_killconfirmed05",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killconfirmed05.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killconfirmed06.wav",
+   "sha256": "e1f739445d79b00dcf6764a8146506bca49481a455f193d43b3d82bd9d6f034f",
+   "bytes": 66820,
+   "kind": "sound",
+   "label": "kv_killconfirmed06",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killconfirmed06.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killconfirmed07.wav",
+   "sha256": "81157a11ec51cb56b6514165189365627baa6977d2d98df505a0c13ba248be54",
+   "bytes": 35552,
+   "kind": "sound",
+   "label": "kv_killconfirmed07",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killconfirmed07.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killgibbing_a.wav",
+   "sha256": "6a7dca6d1e3af4422fa944f5a9e7792a281ba599b1400e5a14436913c277014e",
+   "bytes": 94420,
+   "kind": "sound",
+   "label": "kv_killgibbing_a",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killgibbing_a.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killgibbing_b.wav",
+   "sha256": "0c33166cebd3bae3642939d9424f2e394ba699578179392a0305ca86463f8da9",
+   "bytes": 98244,
+   "kind": "sound",
+   "label": "kv_killgibbing_b",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killgibbing_b.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killgibbing_c.wav",
+   "sha256": "f342621ffdcbaff0060d1c37c9b00f12a4d7f6ec6d12e8e3d0b64b0cfbce98a4",
+   "bytes": 94776,
+   "kind": "sound",
+   "label": "kv_killgibbing_c",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killgibbing_c.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killgibbing_d.wav",
+   "sha256": "7108604c2c7d8a282cf0ae8e300272abf2525f9be0b59911669dfc4dc2677da5",
+   "bytes": 96096,
+   "kind": "sound",
+   "label": "kv_killgibbing_d",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killgibbing_d.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killow.wav",
+   "sha256": "68b9eb3958372a4373d5b3d8ba600b9ce4870f1575cc58f139f19f82368665cc",
+   "bytes": 62308,
+   "kind": "sound",
+   "label": "kv_killow",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killow.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_killsound_quake.wav",
+   "sha256": "781a759c7ada97d0ba655a0b546edb7d0f91bcc4b39ea9636741c7c199b41748",
+   "bytes": 264592,
+   "kind": "sound",
+   "label": "kv_killsound_quake",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_killsound_quake.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_menuhit.wav",
+   "sha256": "27584c5980c32aa5a655225ab25dc294e9a70a1417efce3d67441b6f22254983",
+   "bytes": 163664,
+   "kind": "sound",
+   "label": "kv_menuhit",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_menuhit.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_neotokyo_hit.wav",
+   "sha256": "1b3f045dacf90f66cd73dcef35b56ca196dad8e1f0ab16ec47fc2ec2c495d7db",
+   "bytes": 11288,
+   "kind": "sound",
+   "label": "kv_neotokyo_hit",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_neotokyo_hit.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_normal_hitclap.wav",
+   "sha256": "f162da1a6565fb4dde1250da765fc829e2ab1a18b1e8f3f4ea1aeaa2223fdc4b",
+   "bytes": 18348,
+   "kind": "sound",
+   "label": "kv_normal_hitclap",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_normal_hitclap.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_normal_hitfinish.wav",
+   "sha256": "4c4c7f67edd5bb7bf35d7e2bfe3b06da5f85c3dcbd8c4095045f9a5cb2c17e2b",
+   "bytes": 264624,
+   "kind": "sound",
+   "label": "kv_normal_hitfinish",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_normal_hitfinish.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_normal_hitnormal.wav",
+   "sha256": "7b51fc369bfc025a4c733416a147bc56099d900139323cdf4dc41205422b0044",
+   "bytes": 198444,
+   "kind": "sound",
+   "label": "kv_normal_hitnormal",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_normal_hitnormal.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_normal_hitwhistle.wav",
+   "sha256": "a14074180b6cb3b7f4c004fdbce96591543cea7019d2424c0311436e1e2d60d4",
+   "bytes": 130536,
+   "kind": "sound",
+   "label": "kv_normal_hitwhistle",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_normal_hitwhistle.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_normal_slidertick.wav",
+   "sha256": "5a494dd9fe3f08115729117554b670970ecb8526d0bd73eeb4239718d459cc0b",
+   "bytes": 43308,
+   "kind": "sound",
+   "label": "kv_normal_slidertick",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_normal_slidertick.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_owbodyshot.wav",
+   "sha256": "3c09ee622790e68ca070fa5d59e7dbe2b43f2f7d794821ed8be13741fd2c0921",
+   "bytes": 22888,
+   "kind": "sound",
+   "label": "kv_owbodyshot",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_owbodyshot.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_owheadshot.wav",
+   "sha256": "73a87d940e55dae41c0993eb746b03cd3d9e5523b865baca8287e652a697b6dd",
+   "bytes": 39472,
+   "kind": "sound",
+   "label": "kv_owheadshot",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_owheadshot.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_pop.wav",
+   "sha256": "b50d53391c0bd78a30ab64fbc902c418da169f51e51413bd594ad50f8a04d0cd",
+   "bytes": 24956,
+   "kind": "sound",
+   "label": "kv_pop",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_pop.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_pop1.wav",
+   "sha256": "2c29a9d2072e28cd9c80be9bb3681d4ee80f14b6414a42ab99c12b66f6051d0c",
+   "bytes": 8732,
+   "kind": "sound",
+   "label": "kv_pop1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_pop1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_pop2.wav",
+   "sha256": "bb086434ec0525fcf9535cfd3b0a62dfbad62f13d710bbc0e13d8cb2d70e3412",
+   "bytes": 13372,
+   "kind": "sound",
+   "label": "kv_pop2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_pop2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_pop3.wav",
+   "sha256": "b987d5c86384f827ef564f83ff05ebbcb265c9f0116c64e229095e460cf37615",
+   "bytes": 10736,
+   "kind": "sound",
+   "label": "kv_pop3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_pop3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_pop4.wav",
+   "sha256": "7ba5e4c71e497f04bb313e7371dd0a18be9381d64d744dfb7d06e8154a4f69d9",
+   "bytes": 7124,
+   "kind": "sound",
+   "label": "kv_pop4",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_pop4.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_pop5.wav",
+   "sha256": "dce82ead46f0a974486726b5f6a5ee1cf3eb1d8c0b2c0b69172dc933a836791f",
+   "bytes": 7072,
+   "kind": "sound",
+   "label": "kv_pop5",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_pop5.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_pop6.wav",
+   "sha256": "ef8d869a17b1051c2c2596f4e1b4077a3926c1a3e8f2415e17868f07ebb58eef",
+   "bytes": 8296,
+   "kind": "sound",
+   "label": "kv_pop6",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_pop6.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_pop_mono.wav",
+   "sha256": "6b1ac5de59163a9721a086b7ba709ca43eb9c2a56a421716ffe7802256d059bf",
+   "bytes": 25164,
+   "kind": "sound",
+   "label": "kv_pop_mono",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_pop_mono.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3bfg10k.wav",
+   "sha256": "667d77b2b5929abf0a3924bada1454648ee8e90459499cec9f70a98981cbac73",
+   "bytes": 130472,
+   "kind": "sound",
+   "label": "kv_q3bfg10k",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3bfg10k.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3buzzer.wav",
+   "sha256": "cb8a552df8e4029d4ff83bd0febcbc31a687288bffdcd0998d6e53124e86adf5",
+   "bytes": 208996,
+   "kind": "sound",
+   "label": "kv_q3buzzer",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3buzzer.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3gauntlet.wav",
+   "sha256": "fd7d204df3e6ea57f3b02eb41408d1230d7885e73a3e9facbe487712d367fdf2",
+   "bytes": 135824,
+   "kind": "sound",
+   "label": "kv_q3gauntlet",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3gauntlet.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3grenadelauncher.wav",
+   "sha256": "9bb5a8a819995c0082a203518841e22dcea38e787867e0789b2cd9938bd024a7",
+   "bytes": 262128,
+   "kind": "sound",
+   "label": "kv_q3grenadelauncher",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3grenadelauncher.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3hit.wav",
+   "sha256": "249703b33b223fbd698d54bbfa8e990198194dff1b99f19b7b57eb6e990b1bdc",
+   "bytes": 24216,
+   "kind": "sound",
+   "label": "kv_q3hit",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3hit.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3machinegun.wav",
+   "sha256": "72076817b8b7b97c5220505c6e3386e28d187ceadf9a177b244525f36585ac4d",
+   "bytes": 197732,
+   "kind": "sound",
+   "label": "kv_q3machinegun",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3machinegun.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3menu1.wav",
+   "sha256": "bb1da104bae9182663571a7fef5272f7a977f64bcf5162b631ce889aa7465234",
+   "bytes": 18504,
+   "kind": "sound",
+   "label": "kv_q3menu1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3menu1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3menu2.wav",
+   "sha256": "52e4a34bf04220324127db70894c1fd92fa6cd817105290f9b7b286e54bd099d",
+   "bytes": 19024,
+   "kind": "sound",
+   "label": "kv_q3menu2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3menu2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3menu3.wav",
+   "sha256": "381af6ba388132651b42685227b81d51e544f0719e0df20cdfdd28a0a68f6c26",
+   "bytes": 17888,
+   "kind": "sound",
+   "label": "kv_q3menu3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3menu3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3menuerror.wav",
+   "sha256": "0e6ad991a02945e6eda24ece038158d5f829238b27b8dcc3de135708fff6bf6d",
+   "bytes": 20048,
+   "kind": "sound",
+   "label": "kv_q3menuerror",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3menuerror.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3plasmagun.wav",
+   "sha256": "4ca5f77e134057219bc49b4036887f99f4444bed86f3cdbf9802b128ca57e97b",
+   "bytes": 48748,
+   "kind": "sound",
+   "label": "kv_q3plasmagun",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3plasmagun.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3railgun.wav",
+   "sha256": "b4c4a0fdf8167c0724939fa23aff917ee9e05f779d854b90f4bf0dd02c4cdd69",
+   "bytes": 264560,
+   "kind": "sound",
+   "label": "kv_q3railgun",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3railgun.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3rocketlauncher.wav",
+   "sha256": "2dc3caf5f0c10fdda7ca5990510a746f6173b91d7947d51cd66b620d66002e30",
+   "bytes": 264320,
+   "kind": "sound",
+   "label": "kv_q3rocketlauncher",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3rocketlauncher.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3shotgun.wav",
+   "sha256": "b04bee775eadcf6fb8ddb82c7688e6330a767e680344f0171779ec42ba2bf484",
+   "bytes": 264600,
+   "kind": "sound",
+   "label": "kv_q3shotgun",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3shotgun.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3spawn.wav",
+   "sha256": "4ae655641ff64948fa2e3a39c15f9c3a1ccc6f2a405cddd227358bab63305df0",
+   "bytes": 172632,
+   "kind": "sound",
+   "label": "kv_q3spawn",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3spawn.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_q3spawnitem.wav",
+   "sha256": "b477022111dda5b5bb3d9c874a686edef2ef7078dc54343bd5659bf236d03e45",
+   "bytes": 34288,
+   "kind": "sound",
+   "label": "kv_q3spawnitem",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_q3spawnitem.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_rust_headshot_sound.wav",
+   "sha256": "9978f105be45f54fb9b8797a998f9ecbac70633b77ca8e0ce4a53b26cf060f61",
+   "bytes": 116348,
+   "kind": "sound",
+   "label": "kv_rust_headshot_sound",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_rust_headshot_sound.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_saya_water_drop_popcorn.wav",
+   "sha256": "9229517a9a56ea2184dbb8e9f61e12ce9d37ff5334e5566dccec32beef6513ad",
+   "bytes": 137884,
+   "kind": "sound",
+   "label": "kv_saya_water_drop_popcorn",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_saya_water_drop_popcorn.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_soft_hitclap.wav",
+   "sha256": "e2dd3f4d26b21caa7aa2fe462244e100b83eab3be4f8f008a477de78104b5372",
+   "bytes": 27556,
+   "kind": "sound",
+   "label": "kv_soft_hitclap",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_soft_hitclap.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_soft_hitfinish.wav",
+   "sha256": "3cd59ebe05b6f91afcf8c254355aff3cf8eba8873ff3fccc79fd84feffca449e",
+   "bytes": 196108,
+   "kind": "sound",
+   "label": "kv_soft_hitfinish",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_soft_hitfinish.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_soft_hitnormal.wav",
+   "sha256": "14ef990ea5c70b9e5b7760b784249856484c40dc75eeeb199e30c9fb8dd5c541",
+   "bytes": 138284,
+   "kind": "sound",
+   "label": "kv_soft_hitnormal",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_soft_hitnormal.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_soft_hitwhistle.wav",
+   "sha256": "b8f0cef6f3a2c0fceaf9955580d2dd14e95a97ab244f3eab5626758df142c770",
+   "bytes": 138196,
+   "kind": "sound",
+   "label": "kv_soft_hitwhistle",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_soft_hitwhistle.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_soft_slidertick.wav",
+   "sha256": "4a802de57f14d42a017428be75a60c1d661ce9e5ff7ede306bc5b5aaea8219aa",
+   "bytes": 38240,
+   "kind": "sound",
+   "label": "kv_soft_slidertick",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_soft_slidertick.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_taiko_normal_hitclap.wav",
+   "sha256": "e8ae3f06661d398a74ba0a7cb06963918f8a23723f5775e326e73f23f486d9fc",
+   "bytes": 136548,
+   "kind": "sound",
+   "label": "kv_taiko_normal_hitclap",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_taiko_normal_hitclap.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_taiko_normal_hitfinish.wav",
+   "sha256": "d4872e4fe96d9b8d13f071d89a30f23a836a3e50602aa3c75905da9c6332bd07",
+   "bytes": 199184,
+   "kind": "sound",
+   "label": "kv_taiko_normal_hitfinish",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_taiko_normal_hitfinish.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_taiko_normal_hitnormal.wav",
+   "sha256": "759f201dc8db0015cfe5baac972a96f4a6a772cd1bd521aae0650eda08ea30c0",
+   "bytes": 118804,
+   "kind": "sound",
+   "label": "kv_taiko_normal_hitnormal",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_taiko_normal_hitnormal.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_taiko_normal_hitwhistle.wav",
+   "sha256": "57d209390512f701e7eeccc910b95a3ff7331717cc82e1825f881a9909a84b33",
+   "bytes": 233936,
+   "kind": "sound",
+   "label": "kv_taiko_normal_hitwhistle",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_taiko_normal_hitwhistle.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_taiko_soft_hitclap.wav",
+   "sha256": "87983040a90e9440f0dec3853c166cd9beab8626dcd321526a8f8705ba2b45fd",
+   "bytes": 102744,
+   "kind": "sound",
+   "label": "kv_taiko_soft_hitclap",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_taiko_soft_hitclap.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_taiko_soft_hitfinish.wav",
+   "sha256": "42f7c10df143baf58183cbbdd57ea54f92d2936ee4de106ba3a5f29a694f022c",
+   "bytes": 161968,
+   "kind": "sound",
+   "label": "kv_taiko_soft_hitfinish",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_taiko_soft_hitfinish.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_taiko_soft_hitnormal.wav",
+   "sha256": "e5052d7fb2454fc6df32bc61bc324752f4a526367769eb8a6967b4d5b865edce",
+   "bytes": 57824,
+   "kind": "sound",
+   "label": "kv_taiko_soft_hitnormal",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_taiko_soft_hitnormal.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_taiko_soft_hitwhistle.wav",
+   "sha256": "61d7461d52ac8f7e17226f7cc77a75a54b204b7b389bc112a4eeba373d86ece9",
+   "bytes": 128376,
+   "kind": "sound",
+   "label": "kv_taiko_soft_hitwhistle",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_taiko_soft_hitwhistle.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_tbell.wav",
+   "sha256": "ec746252d8ca98723d71dc4ab6efc936d2c775a6dca503e6841020c73013c194",
+   "bytes": 246516,
+   "kind": "sound",
+   "label": "kv_tbell",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_tbell.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_tick1.wav",
+   "sha256": "7ce689ba415b69f002f507c12371dc284d605b108e3ca0c51ead36a5bc23b7ff",
+   "bytes": 716,
+   "kind": "sound",
+   "label": "kv_tick1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_tick1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_tick2.wav",
+   "sha256": "ea5d037fef599444a1fe2223980fe377493fe4cd7dff49bf9ebcac966e206e73",
+   "bytes": 8748,
+   "kind": "sound",
+   "label": "kv_tick2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_tick2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_tick3.wav",
+   "sha256": "11b6d3beda896ee65c2fd2036ab800f9366e0e9df509ede6ca944e7189f8ed5b",
+   "bytes": 3164,
+   "kind": "sound",
+   "label": "kv_tick3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_tick3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_tick4.wav",
+   "sha256": "946a49525043cd646d300a14d8eea2f998d19afbb783520e8d06d9d2669c2df0",
+   "bytes": 1268,
+   "kind": "sound",
+   "label": "kv_tick4",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_tick4.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_1.wav",
+   "sha256": "1eff4fcf704a47e876ae5d250c1920e3dc9eecbd1292da66f92442dcba2a93f5",
+   "bytes": 27628,
+   "kind": "sound",
+   "label": "kv_vice_hit_1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_10.wav",
+   "sha256": "11b2202dd6b9dc6ba93e5acaf0fbe8c02ff85a094a435cb861e894ec71c711f4",
+   "bytes": 21716,
+   "kind": "sound",
+   "label": "kv_vice_hit_10",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_10.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_11.wav",
+   "sha256": "5efb1647b1506868ddc2ad963fac0d2ef06bcc16d24e1ba90ebe80a5fb68db38",
+   "bytes": 191800,
+   "kind": "sound",
+   "label": "kv_vice_hit_11",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_11.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_12.wav",
+   "sha256": "d2216d79dd8dbd96b984772c1869b2c4f812013553764d1b626a855a912ea460",
+   "bytes": 71096,
+   "kind": "sound",
+   "label": "kv_vice_hit_12",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_12.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_13.wav",
+   "sha256": "b6c6cfb2172ce9e9d990e3ef49fdd3f9631c8fe70581d8630db8d107c5e1a0d9",
+   "bytes": 15728,
+   "kind": "sound",
+   "label": "kv_vice_hit_13",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_13.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_14.wav",
+   "sha256": "9264420e6ddc185d1cc9c6ed5ad1fed47e687979bb89a25918850fc3c4e7c24a",
+   "bytes": 13740,
+   "kind": "sound",
+   "label": "kv_vice_hit_14",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_14.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_15.wav",
+   "sha256": "962aad1166b771997554ec49c1726dbc9f9b5830ee0722c7fbe746a6b67641d9",
+   "bytes": 16164,
+   "kind": "sound",
+   "label": "kv_vice_hit_15",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_15.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_16.wav",
+   "sha256": "f50479d662ec8cfb2075ab7dd3d348a6eb8cce208ef3e82f9644cb4fdb529903",
+   "bytes": 25824,
+   "kind": "sound",
+   "label": "kv_vice_hit_16",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_16.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_17.wav",
+   "sha256": "e33dba9f2f25e7ac420a07304edb6cdfe2ffd48d2b6e3a90e5daeda276e41477",
+   "bytes": 24736,
+   "kind": "sound",
+   "label": "kv_vice_hit_17",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_17.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_18.wav",
+   "sha256": "0dfdf3736ad775ff880d3bf17d4b53f465bdabea669b7ce12acc3e38a7135a67",
+   "bytes": 8168,
+   "kind": "sound",
+   "label": "kv_vice_hit_18",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_18.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_19.wav",
+   "sha256": "db2e48dbea3e388f4a33f521e4f264dd51efaa5294ee98ec251ae41b95074c67",
+   "bytes": 16620,
+   "kind": "sound",
+   "label": "kv_vice_hit_19",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_19.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_2.wav",
+   "sha256": "ddfe09760af924ef7addc93b08c07d730f6e576f5433cff1e79c544ef79b764a",
+   "bytes": 31364,
+   "kind": "sound",
+   "label": "kv_vice_hit_2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_20.wav",
+   "sha256": "06207ca46407b28381b399f0efd2f333c5cb258ce2d4eb09882fd794e43e0fb7",
+   "bytes": 10768,
+   "kind": "sound",
+   "label": "kv_vice_hit_20",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_20.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_21.wav",
+   "sha256": "d5038a4511140ea4f36e788d49094df8eeccc1da3d81b88f67b71a725d805616",
+   "bytes": 214776,
+   "kind": "sound",
+   "label": "kv_vice_hit_21",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_21.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_22.wav",
+   "sha256": "2da5b0efcd360cf63c809dfe22c6b9268edeb9b90fae51a6fa7782461c7ea8ab",
+   "bytes": 16396,
+   "kind": "sound",
+   "label": "kv_vice_hit_22",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_22.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_23.wav",
+   "sha256": "50bf716460df975bd9414fa5a3938b9dac436c8da42bfd14ab5e117eb16a3ef6",
+   "bytes": 23780,
+   "kind": "sound",
+   "label": "kv_vice_hit_23",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_23.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_3.wav",
+   "sha256": "785432de29af4e4a761a32827773f2ef1ecdba547b11fbb3593ff04f05ec12c6",
+   "bytes": 156148,
+   "kind": "sound",
+   "label": "kv_vice_hit_3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_4.wav",
+   "sha256": "77a17ea50827c44e3595726fea031a1eb354a8d9141ab8b1521a39460965ec6d",
+   "bytes": 1568,
+   "kind": "sound",
+   "label": "kv_vice_hit_4",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_4.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_5.wav",
+   "sha256": "349a934167193ac056bbdf145aea12de2b3c79b5a63b7502317163f2c3ab632d",
+   "bytes": 19584,
+   "kind": "sound",
+   "label": "kv_vice_hit_5",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_5.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_6.wav",
+   "sha256": "04b6c2b7d9617352c005d0710892f1ecd3d18b249aec5e56abbbd06cba1945d0",
+   "bytes": 3480,
+   "kind": "sound",
+   "label": "kv_vice_hit_6",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_6.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_7.wav",
+   "sha256": "2a79de022a4a72db512791c0a00dfa9f494135c16b8da770966c66ad57ce6f79",
+   "bytes": 9584,
+   "kind": "sound",
+   "label": "kv_vice_hit_7",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_7.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_8.wav",
+   "sha256": "15d1eec05ba4794e4a5e3b5fa0809e4359df80bdc16e89aceb1c30e0436c0e73",
+   "bytes": 18728,
+   "kind": "sound",
+   "label": "kv_vice_hit_8",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_8.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_vice_hit_9.wav",
+   "sha256": "0b430064764c09d641ec35ea0de6a7919ff3b47925bfe463df7e73f4b7e154fc",
+   "bytes": 118796,
+   "kind": "sound",
+   "label": "kv_vice_hit_9",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_vice_hit_9.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_wolfhit.wav",
+   "sha256": "9e3fad1a87020e5f1c332d2da4000a4d7bc8933a843c7243ea9da8304cce0a7f",
+   "bytes": 26384,
+   "kind": "sound",
+   "label": "kv_wolfhit",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_wolfhit.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_wolfhithead.wav",
+   "sha256": "8ffcda48b1937e11cc3defeeae7c84b7e34dd422718deb777978bf7922282e25",
+   "bytes": 37036,
+   "kind": "sound",
+   "label": "kv_wolfhithead",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_wolfhithead.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_zeeqpop1.wav",
+   "sha256": "edbe6c06b805a10baed0afea7915b772ba0d7e8b3eaea9f6130a245c7593ad8f",
+   "bytes": 6708,
+   "kind": "sound",
+   "label": "kv_zeeqpop1",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_zeeqpop1.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_zeeqpop2.wav",
+   "sha256": "30c6e49b9a67e5ad3c5765d57d598ea0ad9515603381a8c3e776c38e821e8f37",
+   "bytes": 7676,
+   "kind": "sound",
+   "label": "kv_zeeqpop2",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_zeeqpop2.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/kv_zeeqpop3.wav",
+   "sha256": "393973fb56e05b81a813249f61208f6c5459ade07570a8efcc4db0cb0c198a37",
+   "bytes": 7724,
+   "kind": "sound",
+   "label": "kv_zeeqpop3",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/kv_zeeqpop3.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/mw2_hitmarker.wav",
+   "sha256": "9d41f6723137a57dc653feeb097e5cd046f99425f12593fbbd1157ad00f1d472",
+   "bytes": 8148,
+   "kind": "sound",
+   "label": "mw2_hitmarker",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/mw2_hitmarker.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/mw3_hitmarker_headshot.wav",
+   "sha256": "8e0c6f3cc8d39efe6ce1ae557395630066a2bcf58fbe97cc9480cb555f336896",
+   "bytes": 176448,
+   "kind": "sound",
+   "label": "mw3_hitmarker_headshot",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/mw3_hitmarker_headshot.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/mw3_hitmarker_kill.wav",
+   "sha256": "59e9e264d674a5f0f3a2c8ee6687faa997053b1568f419f9a7bd2716f2f22c18",
+   "bytes": 176448,
+   "kind": "sound",
+   "label": "mw3_hitmarker_kill",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/mw3_hitmarker_kill.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/ns2_hit.wav",
+   "sha256": "1410c0911a136fe0b6fc922a2d959240b14f93dc4ac923d29b1483279df17ceb",
+   "bytes": 25644,
+   "kind": "sound",
+   "label": "ns2_hit",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/ns2_hit.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/ns2_kill.wav",
+   "sha256": "92d0821c99c85a942f22c7d622a546ed0a308360f26b92a1f82da7815ee67595",
+   "bytes": 158808,
+   "kind": "sound",
+   "label": "ns2_kill",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/ns2_kill.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/overwatch_kill.wav",
+   "sha256": "28823b731ed040b334fa4a69a592431ba048d14a44e947281620e36399251826",
+   "bytes": 145968,
+   "kind": "sound",
+   "label": "overwatch_kill",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/overwatch_kill.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/rust_headshot.wav",
+   "sha256": "9890a2a28e67a84134934246f011e90892081eb10abd7c75a8f94916d4e56983",
+   "bytes": 133336,
+   "kind": "sound",
+   "label": "rust_headshot",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/rust_headshot.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/tf2_hitsound.wav",
+   "sha256": "2edb9d1c396e3588e7a3c19f644b0f6b2d4e44282d018ace45188f237c5c8f29",
+   "bytes": 176448,
+   "kind": "sound",
+   "label": "tf2_hitsound",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/tf2_hitsound.wav",
+   "optional": true
+  },
+  {
+   "path": "sounds/valorant_kill.wav",
+   "sha256": "1bc47f40bccfb5221f56398653d229ab60eb2828a9683f770ea95e17ce829fd1",
+   "bytes": 155732,
+   "kind": "sound",
+   "label": "valorant_kill",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sounds/valorant_kill.wav",
+   "optional": true
   }
  ]
 }

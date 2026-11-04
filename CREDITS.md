@@ -1,4 +1,4 @@
-# Sky image sources
+# Asset sources: skies (CC0) and hit sounds (not licensed)
 
 All skies here are CC0 / public domain. Each sky is a 2:1 equirectangular
 panorama (2048×1024 PNG): `sources/<name>.png` in this repo holds the source
@@ -24,3 +24,34 @@ width, so a full 360° turn loops with no seam.
 
 Both authors allow redistribution without credit; this file is courtesy and provenance. Original downloads:
 `sbs_-_cloudy_skyboxes_-_panorama_0.zip` (OpenGameArt) and the 2k HDRs from dl.polyhaven.org.
+
+---
+
+# Hit sound sources — NOT free to redistribute
+
+`sounds/*.wav` in this repo are the hit sounds AIM MOD plays. **They are not licensed for redistribution.** They are
+other games' audio and one payware game's audio, put here for the owner's friends on purpose (owner 2026-11-04: "lke
+good to put on the github"); the owner chose to include them anyway. If you are not one of those friends, don't
+re-host them, and don't read anything below as a licence.
+
+| Files | Where they came from |
+|---|---|
+| `csgo_headshot.wav` | Counter-Strike: Global Offensive |
+| `cod_hitmarker.wav` | Call of Duty |
+| `mw2_hitmarker.wav`, `mw3_hitmarker_*.wav` | Call of Duty: Modern Warfare 2 / 3 |
+| `fortnite_headshot.wav` | Fortnite |
+| `overwatch_kill.wav` | Overwatch |
+| `rust_headshot.wav` | Rust |
+| `tf2_hitsound.wav` | Team Fortress 2 |
+| `valorant_kill.wav` | VALORANT |
+| `ns2_hit.wav`, `ns2_kill.wav` | Natural Selection 2 (from the owner's own port) |
+| `kv_*.wav` (KovaaK's set: hitsounds, bells, ticks, pops, drum/taiko variants, Quake 3 sounds) | KovaaK's (payware aim trainer), converted from its .ogg files — see `docs/PLUGIN.md` |
+| `headshot.wav`, `hit.wav`, `kill.wav` | AIM MOD's own, generated for this project (no external source) |
+
+Everything sourced from myinstants.com went through `art/sounds_ext/_src/*.mp3` (see that folder's `conv.py`); a few
+of the `.wav`s above were downloaded there rather than ripped from a game. Where a file is a game name, it is the
+game's audio.
+
+**GTA V is deliberately absent:** the effect packs' textures (`fx_packs/*/gta/*.png`) are cut from GTA V's `.rpf`
+archives and are not in this repo (owner 2026-11-04: "idc about gta").
+
