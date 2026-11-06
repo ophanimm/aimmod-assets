@@ -1,16 +1,16 @@
 {
  "version": 1,
- "tag": "v1",
+ "tag": "v2",
  "generated_by": "tools/assets_repo.py",
  "note": "Data only. Nothing here is executed; the loader verifies sha256 and bytes before use.",
  "assets": [
   {
    "path": "skies/aimmod_sky_ph_clear_day.vpk",
-   "sha256": "fc401bf9df31e24e2217e6a859e3c4d1b49af8ce009a54524eb2d6341b9a4a76",
-   "bytes": 10619525,
+   "sha256": "84d6cc904b09ed61f175478bff11b3adf42d09d59dc47a8eba92ad01c1b3e02b",
+   "bytes": 10678655,
    "kind": "sky",
    "label": "Clear Day (Poly Haven)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_ph_clear_day.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_ph_clear_day.vpk",
    "optional": true
   },
   {
@@ -24,11 +24,11 @@
   },
   {
    "path": "skies/aimmod_sky_ph_moonrise.vpk",
-   "sha256": "28622de9465c08a401c4ba1cef4b6f2625d9b772a621883b55cbc1f608e3b589",
-   "bytes": 10619501,
+   "sha256": "fc5c82212f06318ce6d73a2008bf867b4f379420e5a6e2e2bf46a92f522f7b59",
+   "bytes": 10678295,
    "kind": "sky",
    "label": "Moonrise (Poly Haven)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_ph_moonrise.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_ph_moonrise.vpk",
    "optional": true
   },
   {
@@ -42,11 +42,11 @@
   },
   {
    "path": "skies/aimmod_sky_ph_night_stars.vpk",
-   "sha256": "3c67049c5b705a8292f054958157daa19a25217c94324278fee68968cd0aead0",
-   "bytes": 10619573,
+   "sha256": "964b9a86036a0a67cfc0a2a55d991596e07d9c354d43dbdb2715fb6a24c6d6e2",
+   "bytes": 10679375,
    "kind": "sky",
    "label": "Night Stars (Poly Haven)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_ph_night_stars.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_ph_night_stars.vpk",
    "optional": true
   },
   {
@@ -60,11 +60,11 @@
   },
   {
    "path": "skies/aimmod_sky_ph_overcast.vpk",
-   "sha256": "769d3c421072b1f12f26681495b7741155a6ae56dd392313fb230fba8782d85a",
-   "bytes": 10619501,
+   "sha256": "a58009136343b3455895ac78e78a8d2c1f4cbfcf5ba7b27664e83b0ac60a9a8e",
+   "bytes": 10678295,
    "kind": "sky",
    "label": "Overcast (Poly Haven)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_ph_overcast.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_ph_overcast.vpk",
    "optional": true
   },
   {
@@ -78,11 +78,11 @@
   },
   {
    "path": "skies/aimmod_sky_ph_partly_cloudy.vpk",
-   "sha256": "67abd90dd643e316e340c0795272f46b82590149272821b18c38232842af252f",
-   "bytes": 10619621,
+   "sha256": "aea078ceb277756926f60c97fb3598e92e15dff05db59cd8f9395ba7af15c532",
+   "bytes": 10680095,
    "kind": "sky",
    "label": "Partly Cloudy (Poly Haven)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_ph_partly_cloudy.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_ph_partly_cloudy.vpk",
    "optional": true
   },
   {
@@ -96,11 +96,11 @@
   },
   {
    "path": "skies/aimmod_sky_ph_sunset.vpk",
-   "sha256": "6bbd401af830a76467993f7ac42009236bb738d12d20b106879dd215040a4d9e",
-   "bytes": 10619453,
+   "sha256": "da7d21b15d8f4eccc2295485c603bcd50a5c27a6038f7ed6028ad3c84a874f85",
+   "bytes": 10677575,
    "kind": "sky",
    "label": "Sunset (Poly Haven)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_ph_sunset.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_ph_sunset.vpk",
    "optional": true
   },
   {
@@ -113,12 +113,102 @@
    "optional": true
   },
   {
+   "path": "skies/aimmod_sky_qlm_aurora.vpk",
+   "sha256": "973c8a518d496651e26c703e159597d5586097696da59cf1662be3d73b8784ba",
+   "bytes": 10677935,
+   "kind": "sky",
+   "label": "Aurora (AIM MOD scene)",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_qlm_aurora.vpk",
+   "optional": true
+  },
+  {
+   "path": "sources/qlm_aurora.png",
+   "sha256": "67c77f0603b6af9df5193421101e6611278e7276e8e468e52f703dbd3430b4dc",
+   "bytes": 1583044,
+   "kind": "sky-source",
+   "label": "Aurora (AIM MOD scene)",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sources/qlm_aurora.png",
+   "optional": true
+  },
+  {
+   "path": "skies/aimmod_sky_qlm_galaxy.vpk",
+   "sha256": "61e5c5dae1f2ce2db337eedf358f9a816b6c98f7a07c3d38b7e695fa1b80b65c",
+   "bytes": 10678979,
+   "kind": "sky",
+   "label": "Galaxy (AIM MOD scene)",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_qlm_galaxy.vpk",
+   "optional": true
+  },
+  {
+   "path": "sources/qlm_galaxy.png",
+   "sha256": "aba0c8c32579b7d9436e0c2f96dffcca457383a378232e46fac51d7a149f8000",
+   "bytes": 1740805,
+   "kind": "sky-source",
+   "label": "Galaxy (AIM MOD scene)",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sources/qlm_galaxy.png",
+   "optional": true
+  },
+  {
+   "path": "skies/aimmod_sky_qlm_rainbow.vpk",
+   "sha256": "ce52df44efa44509dac2e866b8173dd4a990117592b1144fb031bbe5e53f4b23",
+   "bytes": 10678295,
+   "kind": "sky",
+   "label": "Rainbow (AIM MOD scene)",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_qlm_rainbow.vpk",
+   "optional": true
+  },
+  {
+   "path": "sources/qlm_rainbow.png",
+   "sha256": "934d5bab1de618a9dd6036d68d691ff58ff72abb8d834b7e20fd35cd422bb3af",
+   "bytes": 116743,
+   "kind": "sky-source",
+   "label": "Rainbow (AIM MOD scene)",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sources/qlm_rainbow.png",
+   "optional": true
+  },
+  {
+   "path": "skies/aimmod_sky_qlm_starfield.vpk",
+   "sha256": "7c660c879f063f8f91527168c36729f4934a73a397e4427f619bc74296498862",
+   "bytes": 10679015,
+   "kind": "sky",
+   "label": "Starfield (AIM MOD scene)",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_qlm_starfield.vpk",
+   "optional": true
+  },
+  {
+   "path": "sources/qlm_starfield.png",
+   "sha256": "dc56396a626df77705d589de052d9b299e005a5b9adb9eb3f4f7779d82b5e803",
+   "bytes": 289303,
+   "kind": "sky-source",
+   "label": "Starfield (AIM MOD scene)",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sources/qlm_starfield.png",
+   "optional": true
+  },
+  {
+   "path": "skies/aimmod_sky_qlm_sunset_clouds.vpk",
+   "sha256": "a63f5ff963ff38aa7cf5c1ae064b3cc83d91c9a8285d40e72ff6d506a1ee8761",
+   "bytes": 10680455,
+   "kind": "sky",
+   "label": "Sunset Clouds (AIM MOD scene)",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_qlm_sunset_clouds.vpk",
+   "optional": true
+  },
+  {
+   "path": "sources/qlm_sunset_clouds.png",
+   "sha256": "64a10e43818474f7a960956c0dcdb77509215e6009a571bf28b9134f38417ddf",
+   "bytes": 1034989,
+   "kind": "sky-source",
+   "label": "Sunset Clouds (AIM MOD scene)",
+   "url": "https://raw.githubusercontent.com/ophanimm/aimmod-assets/main/sources/qlm_sunset_clouds.png",
+   "optional": true
+  },
+  {
    "path": "skies/aimmod_sky_sbs_04_clear_day.vpk",
-   "sha256": "7e06cb6ef9834f8778f6f6e34040634e5ecea60c1aef323d200715086b59469f",
-   "bytes": 10619621,
+   "sha256": "ad6fd7afe4f8a6e541594b90df5c78cc44fcc9b3523dfb35f08b528e11294064",
+   "bytes": 10680095,
    "kind": "sky",
    "label": "Clear Day (SBS 04)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_sbs_04_clear_day.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_sbs_04_clear_day.vpk",
    "optional": true
   },
   {
@@ -132,11 +222,11 @@
   },
   {
    "path": "skies/aimmod_sky_sbs_11_night_purple.vpk",
-   "sha256": "2d05b83881213507b1ae6ef009e4e3c60301c268300fae15128597a53bda8b1f",
-   "bytes": 10619693,
+   "sha256": "90733178b671f4ed5adc6e5e459d5430c12e0e5ad0e7e95238ae203969e192d8",
+   "bytes": 10681175,
    "kind": "sky",
    "label": "Night Purple (SBS 11)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_sbs_11_night_purple.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_sbs_11_night_purple.vpk",
    "optional": true
   },
   {
@@ -150,11 +240,11 @@
   },
   {
    "path": "skies/aimmod_sky_sbs_14_toxic_green.vpk",
-   "sha256": "0eaa18e5041be97cfac7980c62cc91ae8deb9310c6f10c6a502487a00fdebf64",
-   "bytes": 10619669,
+   "sha256": "873de599b1a2be2108d923b1f18e24f4ba4156ceb351207fa39f3a30a81839e6",
+   "bytes": 10680815,
    "kind": "sky",
    "label": "Toxic Green (SBS 14)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_sbs_14_toxic_green.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_sbs_14_toxic_green.vpk",
    "optional": true
   },
   {
@@ -168,11 +258,11 @@
   },
   {
    "path": "skies/aimmod_sky_sbs_15_dark_night.vpk",
-   "sha256": "67b53c4a240df3372c6b1cb3b5de13c6e421acbc8233adbd910ca5c038a51ae3",
-   "bytes": 10619645,
+   "sha256": "bab272341ad3d22238456986f23f639d40fd8479358cbf8fbcf96ab59ab61b19",
+   "bytes": 10680455,
    "kind": "sky",
    "label": "Dark Night (SBS 15)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_sbs_15_dark_night.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_sbs_15_dark_night.vpk",
    "optional": true
   },
   {
@@ -186,11 +276,11 @@
   },
   {
    "path": "skies/aimmod_sky_sbs_16_blue_sky.vpk",
-   "sha256": "2eee3e2cfc257a215bd0b8bd2bbcdbeb76cd2777cf1a15bbb4dc17a3b5508353",
-   "bytes": 10619597,
+   "sha256": "3459ddf6c03f4fed01cf196fe2890bb094154210b030928c410ed1db88445f9d",
+   "bytes": 10679735,
    "kind": "sky",
    "label": "Blue Sky (SBS 16)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_sbs_16_blue_sky.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_sbs_16_blue_sky.vpk",
    "optional": true
   },
   {
@@ -204,11 +294,11 @@
   },
   {
    "path": "skies/aimmod_sky_sbs_17_sunset.vpk",
-   "sha256": "24002202c8187bd943c5e76bf03f524682bec0f378f4889b86f85d0b213440d0",
-   "bytes": 10619549,
+   "sha256": "9a82d9caba6ecec49ba6c9594472ab0835e3a65077f448eadfce1227a918c19c",
+   "bytes": 10679015,
    "kind": "sky",
    "label": "Sunset (SBS 17)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_sbs_17_sunset.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_sbs_17_sunset.vpk",
    "optional": true
   },
   {
@@ -222,11 +312,11 @@
   },
   {
    "path": "skies/aimmod_sky_sbs_22_red_sunset.vpk",
-   "sha256": "26aa4dcbfbe92215d74becaf06c10061bfaeda713c3b73c7cb7d853bd007440e",
-   "bytes": 10619645,
+   "sha256": "d895204334f03be99d4a89b2b69868952885bf62e1d169c9961298e4407e2bf5",
+   "bytes": 10680455,
    "kind": "sky",
    "label": "Red Sunset (SBS 22)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_sbs_22_red_sunset.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_sbs_22_red_sunset.vpk",
    "optional": true
   },
   {
@@ -240,11 +330,11 @@
   },
   {
    "path": "skies/aimmod_sky_sbs_24_overcast.vpk",
-   "sha256": "e54995a3c99311894372641be39369d50688efe3da81b7fc04631309a943a1bf",
-   "bytes": 10619597,
+   "sha256": "a373ca4612117b720258ae23d1007c35df66c4bd6d9a9f136ca51699c298769d",
+   "bytes": 10679735,
    "kind": "sky",
    "label": "Overcast (SBS 24)",
-   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v1/aimmod_sky_sbs_24_overcast.vpk",
+   "url": "https://github.com/ophanimm/aimmod-assets/releases/download/v2/aimmod_sky_sbs_24_overcast.vpk",
    "optional": true
   },
   {
